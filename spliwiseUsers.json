@@ -1,0 +1,54 @@
+{
+    "userStorage": {
+        "u1": {
+            "userId": "u1",
+            "name": "User 1",
+            "email": "user1@gmail.com",
+            "mobileNumber": "123",
+            "amountBorrowed": {
+                "u4": 480.0
+            },
+            "amountLent": {
+                "u2": 620.0,
+                "u3": 1130.0,
+                "u4": 250.0
+            }
+        },
+        "u2": {
+            "userId": "u2",
+            "name": "User 2",
+            "email": "user2@gmail.com",
+            "mobileNumber": "456",
+            "amountBorrowed": {
+                "u1": 620.0,
+                "u4": 240.0
+            },
+            "amountLent": {}
+        },
+        "u3": {
+            "userId": "u3",
+            "name": "User 3",
+            "email": "user3@gmail.com",
+            "mobileNumber": "789",
+            "amountBorrowed": {
+                "u1": 1130.0,
+                "u4": 240.0
+            },
+            "amountLent": {}
+        },
+        "u4": {
+            "userId": "u4",
+            "name": "User 4",
+            "email": "user4@gmail.com",
+            "mobileNumber": "135",
+            "amountBorrowed": {
+                "u1": 250.0
+            },
+            "amountLent": {
+                "u1": 480.0,
+                "u2": 240.0,
+                "u3": 240.0
+            }
+        }
+    }
+}
